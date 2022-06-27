@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "32341941349",
+    "project_id": "howdyapp-20885",
+    "storage_bucket": "howdyapp-20885.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32341941349:android:63eb3e52b8576253ea7a8c",
+        "android_client_info": {
+          "package_name": "com.howdyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "32341941349-hubodqr8uhpkmtv25igickoqa4edql9d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiiTpOAPUEtby2hrio2L4tIFoYmQrOWGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "32341941349-hubodqr8uhpkmtv25igickoqa4edql9d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "32341941349-5isa100ojdjfjn0t8t2pdguvjosi8764.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.HowdyApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32341941349:android:8b01488094def36eea7a8c",
+        "android_client_info": {
+          "package_name": "com.howdyappadmain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "32341941349-hubodqr8uhpkmtv25igickoqa4edql9d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiiTpOAPUEtby2hrio2L4tIFoYmQrOWGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "32341941349-hubodqr8uhpkmtv25igickoqa4edql9d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "32341941349-5isa100ojdjfjn0t8t2pdguvjosi8764.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.HowdyApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
